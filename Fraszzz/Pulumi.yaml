@@ -1,0 +1,7 @@
+name: Fraszzz
+runtime: nodejs
+description: Cheems
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: alicloud-javascript

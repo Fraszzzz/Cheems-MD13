@@ -1,0 +1,3 @@
+config:
+  alicloud:region: cn-beijing
+  pulumi:template: alicloud-javascript
